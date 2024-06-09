@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "411059056075",
+    "firebase_url": "https://pdam-1cace-default-rtdb.firebaseio.com",
+    "project_id": "pdam-1cace",
+    "storage_bucket": "pdam-1cace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411059056075:android:197257fab275bc64ff5a4e",
+        "android_client_info": {
+          "package_name": "com.android.smartpdam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZsFYwNBTPIBcZC8bFk71_8V3PbiGtZwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
